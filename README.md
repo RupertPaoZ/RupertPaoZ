@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently pursuing a Master's degree in the College of Computer Science at Zhejiang University. I received B.Eng. degree from College of Computer Science & Technology, Zhejiang University and Honours Degree from Chu Kochen Honors College in 2022. My research interests focus on appearance acquisition/modeling and rendering. You can find more details about me in my [resume]().
+
 <!--
 **RupertPaoZ/RupertPaoZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
