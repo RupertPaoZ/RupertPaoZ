@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-I am currently pursuing a Master's degree in the College of Computer Science at Zhejiang University. I received B.Eng. degree from College of Computer Science & Technology, Zhejiang University and Honours Degree from Chu Kochen Honors College in 2022. My research interests focus on appearance acquisition/modeling and rendering. You can find more details about me in my <a href="https://github.com/RupertPaoZ/RupertPaoZ/blob/master/Resume.pdf" target="_blank">Resume</a>.
+Intro
 
-<!--
-**RupertPaoZ/RupertPaoZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[resume](https://github.com/RupertPaoZ/RupertPaoZ/blob/master/Resume.pdf)
-Here are some ideas to get you started:
+📖 Education
+{Bachelor, Mixed Class (Chu Kochen Honors College) & Computer Science => Master, Software Engineer} @ Zhejiang University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Research Topic
+Geometry & Material Reconstruction or Generation.
+
+💼 Algorithm Engineer
+Now I am working at Youku with <a href="https://huan-fu.github.io/">Dr. Fu</a>. We now focus on avatars for the entertainment industry.
+
+You can find more details about me in my <a href="https://github.com/RupertPaoZ/RupertPaoZ/blob/master/Resume.pdf" target="_blank">📄Resume</a>.
+
