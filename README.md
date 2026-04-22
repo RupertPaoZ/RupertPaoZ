@@ -6,10 +6,10 @@
 * {Bachelor, Mixed Class (Chu Kochen Honors College) & Computer Science => Master, Software Engineer} @ Zhejiang University.
 
 #### 🔍 Research Topic
-* Geometry & Material Reconstruction or Generation, AIGC
+* Video/3D AIGC, Geometry & Material Reconstruction or Generation
 
 #### 💼 Algorithm Engineer
-* Now I am working at Youku with <a href="https://huan-fu.github.io/">Dr. Fu</a>. We now focus on avatars for the entertainment industry.
+* I worked at Youku with <a href="https://huan-fu.github.io/">Dr. Fu</a>, focusing on avatars for the entertainment industry, from Jul. 2025 to Apr. 2026.
 
 You can find more details about me in my <a href="https://github.com/RupertPaoZ/RupertPaoZ/blob/master/Resume.pdf" target="_blank">📄Resume</a>.
 
